@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Coach"
+  short_description: "Coding practice with bounded theory and command checks"
+  default_prompt: "Use $coding-coach to agree on a coding outcome, learning depth, and time boundary, then coach me through implementation with only the necessary theory and command checks."
